@@ -4,6 +4,7 @@ Mechatronics is an upcoming technology that facilitates the machine to mimic the
 ## University Name:
 Dr. A. P. J. Abdul Kalam Technical University, Uttar Pradesh, Lucknow
 ## Descipline: Electrical Engineering
+
 # Mentor Details:
 | Role | Faculty Name | Designation | College Name | Email ID |
 | ---- | ------------ | ----------- | ------------ | -------- |

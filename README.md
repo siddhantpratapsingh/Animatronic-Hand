@@ -15,7 +15,7 @@ Dr. A. P. J. Abdul Kalam Technical University, Uttar Pradesh, Lucknow
 | Role | Student Name | Roll Number | College Name | Email ID|
 |----- | ------------ | ----------- | ------------ | ------- |
 | Team Leader | Siddhant Pratap Singh | 1743120043 | B. N. College of Engineering And Technology, Lucknow | siddhantpratapsingh46@gmail.com |
-| Team Member | Akanksha Tiwari | 1743120003 | B. N. College of Engineering And Technology, Lucknow | - |
+| Team Member | Akanksha Tiwari | 1743120003 | B. N. College of Engineering And Technology, Lucknow |  akankshatiwari1599@gmail.com |
 | Team Member | Jai Hind | 1743120017 | B. N. College of Engineering And Technology, Lucknow | jaihind0555@gmail.com |
 | Team Member | Utkarsh Pandey | 1743120049 | B. N. College of Engineering And Technology, Lucknow | utkarsh.pandey760@gmail.com |
 | Team Member | Adab Istiaq | 1743120019 | B. N. College of Engineering And Technology, Lucknow | adabishtiaq123@gmail.com |
